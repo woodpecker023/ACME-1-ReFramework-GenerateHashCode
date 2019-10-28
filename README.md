@@ -1,2 +1,2 @@
-# ACME-1-ReFramework-GenerateHashCode
-For UiPath Advance Training level 3 
+# WI5ReFramework
+Using ReFramework from UiPath Studio I am automating job described in attached PDD - WI5 - Calculate Client Security Hash.pdf
